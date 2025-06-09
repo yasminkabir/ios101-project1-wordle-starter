@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A50D7E82DF7A9F900E2B019 /* valid-wordle-words.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0A50D7E72DF7A9F900E2B019 /* valid-wordle-words.txt */; };
 		991CEC0629999E2A0095F025 /* KeyboardCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 991CEC0529999E2A0095F025 /* KeyboardCell.swift */; };
 		991CEC0829999ECD0095F025 /* KeyboardController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 991CEC0729999ECD0095F025 /* KeyboardController.swift */; };
 		9953C05529A40AC700247C5B /* BoardController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9953C05429A40AC700247C5B /* BoardController.swift */; };
@@ -45,6 +46,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0A50D7E72DF7A9F900E2B019 /* valid-wordle-words.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "valid-wordle-words.txt"; sourceTree = "<group>"; };
 		991CEC0529999E2A0095F025 /* KeyboardCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardCell.swift; sourceTree = "<group>"; };
 		991CEC0729999ECD0095F025 /* KeyboardController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardController.swift; sourceTree = "<group>"; };
 		9953C05429A40AC700247C5B /* BoardController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoardController.swift; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 				9953C05629A422C200247C5B /* WordGenerator.swift */,
 				991CEC0529999E2A0095F025 /* KeyboardCell.swift */,
 				991CEC0729999ECD0095F025 /* KeyboardController.swift */,
+				0A50D7E72DF7A9F900E2B019 /* valid-wordle-words.txt */,
 				996B84B5299990AA00133037 /* Info.plist */,
 				99CF2AA429B0156100B4973F /* DO_NOT_MODIFY */,
 			);
@@ -268,6 +271,7 @@
 			files = (
 				996B84B4299990AA00133037 /* LaunchScreen.storyboard in Resources */,
 				996B84B1299990AA00133037 /* Assets.xcassets in Resources */,
+				0A50D7E82DF7A9F900E2B019 /* valid-wordle-words.txt in Resources */,
 				996B84AF299990A900133037 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
